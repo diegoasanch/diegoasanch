@@ -1,8 +1,7 @@
 <img height="300" align="right" src="./diegoasanch_github_octocat.png" alt="diegoasanch's octocat" />
 
 # Hi there 🐱‍🏍
-
-Welcome to my github profile!!  
+  
 I'm a Computer engineer student and web developer from <img width="15" src="https://www.flaticon.com/svg/static/icons/svg/197/197580.svg" alt="venezuela flag" />
 __Venezuela__, currently living in <img width="15" src="https://www.flaticon.com/svg/static/icons/svg/197/197573.svg" alt="argentina flag" /> __Argentina__.  
 
