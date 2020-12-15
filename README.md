@@ -1,9 +1,11 @@
 <img height="300" align="right" src="./diegoasanch_github_octocat.png" alt="diegoasanch's octocat" />
 
 # Hi there 🐱‍🏍
+
+### About me
   
-I'm a Computer engineer student and web developer from <img width="15" src="https://www.flaticon.com/svg/static/icons/svg/197/197580.svg" alt="venezuela flag" />
-__Venezuela__, currently living in <img width="15" src="https://www.flaticon.com/svg/static/icons/svg/197/197573.svg" alt="argentina flag" /> __Argentina__.  
+I'm a Computer engineering student and web developer from __Venezuela__, currently living in __Argentina__.  I love physics and astronomy 🔭🌌.  
+Right now I work as a part-time front-end developer at [Sistematis](https://sistematis.com.ar/es/) and freelance on [fiverr](https://www.fiverr.com/diegoasanch)
 
 ### Things I code with  
 
