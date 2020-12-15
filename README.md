@@ -1,7 +1,5 @@
 <img height="300" align="right" src="./diegoasanch_github_octocat.png" alt="diegoasanch's octocat" />
 
-# Hi there 🐱‍🏍
-
 ### About me
   
 I'm a Computer engineering student and web developer from __Venezuela__, currently living in __Argentina__.  I love physics and astronomy 🔭🌌.  
