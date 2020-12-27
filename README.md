@@ -2,8 +2,8 @@
 
 ### About me
   
-I'm a Computer engineering student and web developer from __Venezuela__, currently living in __Argentina__.  I love physics and astronomy 🔭🌌.  
-Right now I work as a part-time front-end developer at [Sistematis](https://sistematis.com.ar/es/) and freelance on [fiverr](https://www.fiverr.com/diegoasanch)
+I'm a Computer engineering student and web developer from __Venezuela__, currently living in __Argentina__.  I love science and space 🔭🌌.  
+Right now I work as a part-time front-end developer at [Sistematis](https://sistematis.com.ar/es/) and freelancer on [fiverr](https://www.fiverr.com/diegoasanch).
 
 ### Things I code with  
 
@@ -31,13 +31,13 @@ Right now I work as a part-time front-end developer at [Sistematis](https://sist
   <a href="https://www.linkedin.com/in/diegoasanch/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/diegoasanch/" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
   <a href="https://twitter.com/diegoasanch" target="_blank">
     <img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1D9DEC?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
+  <a href="https://www.instagram.com/diegoasanch/" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
   <a href="mailto:diegoasanch@gmail.com" target="_blank">
-    <img alt="Mail" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img alt="Mail" src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p?
