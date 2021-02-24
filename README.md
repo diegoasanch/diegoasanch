@@ -9,6 +9,7 @@ Right now I work as a part-time front-end developer at [Sistematis](https://sist
 
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-0D1117?logo=javascript&logoColor=F7DF1E" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-0D1117?logo=typescript&logoColor=3178C6" />
   <img alt="React" src="https://img.shields.io/badge/-ReactJS-0D1117?logo=react&logoColor=61DAFB" />
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-0D1117?logo=firebase&logoColor=FFCB2B" />
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-0D1117?logo=html5&logoColor=E34F26" />
