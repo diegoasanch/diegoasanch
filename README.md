@@ -3,7 +3,7 @@
 ### About me
   
 I'm a Computer engineering student and web developer from __Venezuela__, currently living in __Argentina__.  I love science and space 🔭🌌.  
-Right now I work as a part-time front-end developer at [Sistematis](https://sistematis.com.ar/es/) and freelancer on [fiverr](https://www.fiverr.com/diegoasanch).
+Right now I work as a freelance front-end developer.
 
 ### Things I code with  
 
@@ -11,13 +11,14 @@ Right now I work as a part-time front-end developer at [Sistematis](https://sist
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-0D1117?logo=javascript&logoColor=F7DF1E" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-0D1117?logo=typescript&logoColor=3178C6" />
   <img alt="React" src="https://img.shields.io/badge/-ReactJS-0D1117?logo=react&logoColor=61DAFB" />
+  <img alt="Styled-Components" src="https://img.shields.io/badge/-Styled--Components-0D1117?logo=styled-components&logoColor=DB7093" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-0D1117?logo=python&logoColor=3776AB" />
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-0D1117?logo=firebase&logoColor=FFCB2B" />
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-0D1117?logo=html5&logoColor=E34F26" />
   <img alt="JQuery" src="https://img.shields.io/badge/-JQuery-0D1117?logo=jquery&logoColor=0769AD" />
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-0D1117?logo=css3&logoColor=264DE4" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-0D1117?logo=sass&logoColor=CF649A" />
   <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-0D1117?logo=node.js&logoColor=339933" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-0D1117?logo=python&logoColor=3776AB" />
   <img alt="Django" src="https://img.shields.io/badge/-Django-0D1117?logo=django&logoColor=43B68A" />
   <img alt="PowerShell" src="https://img.shields.io/badge/-PowerShell-0D1117?logo=powershell&logoColor=0078D7" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-0D1117?logo=git&logoColor=F05032" />
