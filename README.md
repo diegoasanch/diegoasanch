@@ -3,18 +3,17 @@
 # Hi 👋, I'm Diego
 
 I'm a Computer engineering student and web developer from __Venezuela__, currently living in __Argentina__.  I love science and space 🔭🌌.  
-Right now I work as a freelance front-end developer.
+Right now I work as a front-end developer at [capicua](https://wearecapicua.com/).
 
 ### Things I code with  
 
 <p>
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-0D1117?logo=javascript&logoColor=F7DF1E" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-0D1117?logo=typescript&logoColor=3178C6" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-0D1117?logo=javascript&logoColor=F7DF1E" />
   <img alt="React" src="https://img.shields.io/badge/-ReactJS-0D1117?logo=react&logoColor=61DAFB" />
   <img alt="Styled-Components" src="https://img.shields.io/badge/-Styled--Components-0D1117?logo=styled-components&logoColor=DB7093" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-0D1117?logo=python&logoColor=3776AB" />
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-0D1117?logo=firebase&logoColor=FFCB2B" />
-  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-0D1117?logo=html5&logoColor=E34F26" />
   <img alt="JQuery" src="https://img.shields.io/badge/-JQuery-0D1117?logo=jquery&logoColor=0769AD" />
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-0D1117?logo=css3&logoColor=264DE4" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-0D1117?logo=sass&logoColor=CF649A" />
