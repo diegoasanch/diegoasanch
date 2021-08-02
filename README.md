@@ -3,7 +3,7 @@
 # Hi 👋, I'm Diego
 
 I'm a Computer engineering student and web developer from __Venezuela__, currently living in __Argentina__.  I love science and space 🔭🌌.  
-Right now I work as a front-end developer at [capicua](https://wearecapicua.com/).
+Right now I work as a front-end developer at [capicua](https://wearecapicua.com/) and freelancer on fiverr.
 
 ### Things I code with  
 
