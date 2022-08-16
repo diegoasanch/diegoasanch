@@ -39,7 +39,7 @@ Right now I work as a full-stack web developer at [capicua](https://wearecapicua
   <a href="https://www.instagram.com/diegoasanch/" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:hi@diegoasanch.dev" target="_blank">
+  <a href="mailto:diego@sanch.dev" target="_blank">
     <img alt="Mail" src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p?
