@@ -2,8 +2,7 @@
 
 # Hi 👋, I'm Diego
 
-I'm a Computer engineering student and developer from __Venezuela__, currently living in __Argentina__.  I love science and space 🔭🌌.  
-Right now I work as a full-stack web developer at [capicua](https://wearecapicua.com/) and freelancer.
+I'm a Computer engineering student and developer from __Venezuela__, currently living in __Argentina__.  I love science and space 🔭🌌.
 
 ### Things I code with  
 
